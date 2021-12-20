@@ -6,29 +6,29 @@ I have created 2 nodes for the Metamac network<br/>
 
 ## Puppeth Config
 
-<br/>![puppeth_config1.png](./screenshots/puppeth_config1.png)
+<br/>![puppeth_config1.png](./Screenshots/puppeth_config1.png)
 
-![puppeth_config2.png](./screenshots/puppeth_config2.png)<br/>
+![puppeth_config2.png](./Screenshots/puppeth_config2.png)<br/>
 
 ## Initialize Each Node
 
-<br/>![](./screenshots/initialize_nodes.png)<br/>
+<br/>![](./Screenshots/initialize_nodes.png)<br/>
 
 ## Enable Mining and RPC flag for Node1
 
-<br/>![](./screenshots/rpc_enabled.png)<br/>
+<br/>![](./Screenshots/rpc_enabled.png)<br/>
 
 ## Enable Peer Port for Node2
 
-<br/>![](./screenshots/peerport_node2.png)<br/>
+<br/>![](./Screenshots/peerport_node2.png)<br/>
 
 ## Test Transaction
 
-<br/>![](./screenshots/transaction_transfer.png)<br/>
+<br/>![](./Screenshots/transaction_transfer.PNG)<br/>
 
 ## Transaction Hash
 
-<br/>![](./screenshots/transaction_hash.png)<br/>
+<br/>![](./Screenshots/transaction_hash.PNG)<br/>
 
 # Documentaion for ZBank's Private Testnet of *Metamac Blockchain*
 
@@ -49,14 +49,14 @@ NOTE: Type your password and hit enter - even if you can't see it visually!
 ## *To Send Transactions Using METAMASK*
 Setup METAMASK Wallet with a Custom Network using the following settings:<br/>
 
-<br/>![](./screenshots/metamask_network.png)<br/>
+<br/>![](./Screenshots/Metamask_network.PNG)<br/>
 
 Make sure you are using the same Chain ID as before and using ETH as the currency.
 
 Import both *Keystore* files for Nodes 1 & 2 from the "node1/keystore" directory as follows:<br/>
 
-<br/>![](./screenshots/keystore.png)<br/>
+<br/>![](./Screenshots/keystore.PNG)<br/>
     
 ### *You may now send a Transactions from the Node1 account to the Node2 account*
 
-<br/>![](./screenshots/transaction_transfer.png)<br/>
+<br/>![](./Screenshots/transaction_transfer.PNG)<br/>
