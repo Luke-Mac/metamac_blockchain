@@ -5,8 +5,8 @@ I have created 2 nodes for the Metamac network<br/>
 - Node 2: 0xD33A1Eef3425a74105D36c6BABfB96a1AdD853b0
 
 ## Puppeth Config
-<br/>![puppeth_config1.png](screenshots/puppeth_config1.png)
-![puppeth_config2.png](screenshots/puppeth_config2.png)<br/>
+<br/>![puppeth_config1.png](./screenshots/puppeth_config1.png)
+![puppeth_config2.png](./screenshots/puppeth_config2.png)<br/>
 ## Initialize Each Node
 <br/>![](./screenshots/initialize_nodes.png)<br/>
 
